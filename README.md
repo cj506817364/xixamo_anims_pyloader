@@ -18,6 +18,8 @@ How to use this script
 
 Demo:
 
+<img width="485" alt="success download all" src="https://github.com/user-attachments/assets/104302a1-80cd-4c69-bf93-da65a81131d7">
+
 [![Demo on youtube](https://img.youtube.com/vi/EuAjnKAehGI/0.jpg)](https://www.youtube.com/watch?v=EuAjnKAehGI)
 
 ## Last
