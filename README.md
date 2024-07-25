@@ -14,7 +14,7 @@ How to use this script
 5. Then past the character id in the "character" variable at beginning of this script `character = '2591eddd-...'`
 6. Then past the Authorization id in the "Authorization" variable at beginning of this script `Authorization = 'Bearer eyJhbGciO...'`
 7. run `pip install -r requirements.txt`
-8. keep the blank page opened and keep on pressing "Allow multiple downlaods"
+8. run `python pyload_all.py` to download all animation
 
 Demo:
 
